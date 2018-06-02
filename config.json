@@ -1,0 +1,5 @@
+{
+  "token": "your discord app token",
+  "ownerID": "your discord user id",
+  "prefix": "your prefix"
+}
